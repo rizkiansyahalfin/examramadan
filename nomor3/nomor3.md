@@ -23,10 +23,10 @@ Buatlah sebuah **fitur perpustakaan** sederhana menggunakan PHP yang memiliki ke
 ### Cara Menjalankan:
 Import file SQL ke database (phpMyAdmin atau CLI).
 
-Simpan file PHP dalam folder project (misal: htdocs/perpustakaan/).
+Simpan file PHP dalam folder project (misal: www/nomor3/).
 
 Akses melalui browser:
 
-http://localhost/perpustakaan/tambah.php → tambah buku
+http://localhost/nomor3/tambah.php → tambah buku
 
-http://localhost/perpustakaan/daftar.php → lihat/search buku
+http://localhost/nomor3/daftar.php → lihat/search buku
